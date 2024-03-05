@@ -1,1 +1,3 @@
-name, eid, grade, course, assignment 
+eid, grade, course, assignment 
+E0000001, 100.0, 381, 1
+E0000002, 99.0, 381, 1
